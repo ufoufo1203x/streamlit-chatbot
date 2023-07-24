@@ -1,6 +1,6 @@
 # streamlit-chatbot
 
-# Require pip 
+# Requested pip 
 streamlit
 streamlit-chat
 langchain
